@@ -1,0 +1,31 @@
+{
+	"kunde": {
+		"nummer": "KE_54_3ax",
+		"name":  {
+			"vorname": "Homer J.",
+			"nachname": "Simpson"
+		}, 
+		"anschrift": {
+			"inland": 0,
+			"adresse": "Springfield"
+		}
+	},
+	"produktliste": [
+		{
+			"nummer": "2432",
+			"name": "Ketchup",
+			"merkmale": [
+				"saftig", "scharf"
+			],
+			"preis": "1,24€"
+		},
+		{
+			"nummer": "4212",
+			"name": "Duff",
+			"merkmale": [
+				"Durstlöscher"
+			],
+			"preis": "1,49€"
+		}
+	]	
+}
