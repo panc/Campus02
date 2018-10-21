@@ -1,0 +1,11 @@
+[
+    { "title": "Everyday Italian",                  "cover": "", "category": "COOKING", "author": "Giada De Laurentiis", "year": "2005", "price": "30" },
+    { "title": "Moby Dick",                         "cover": "", "category": "CHILDREN","author": "Herman Melville", "year": "1851", "price": "4" },
+    { "title": "Harry Potter - Band 7",             "cover": "https://vignette.wikia.nocookie.net/harrypotter/images/2/2e/Harry_potter_heiligtuemer.jpg/revision/latest?cb=20130705110230&path-prefix=de", "category": "CHILDREN", "author": "J K. Rowling", "year": "2005", "price": "29" },
+    { "title": "Verschwörung (Millenium, Band 4)",  "cover": "https://images-na.ssl-images-amazon.com/images/I/518DimUjoBL.jpg", "category": "THRILLER", "author": "Stieg Larsson", "year": "2015", "price": "9" },
+    { "title": "Vergebung (Millenium, Band 3)",     "cover": "", "category": "THRILLER", "author": "Stieg Larsson", "year": "2007", "price": "9" },
+    { "title": "Verdammnis (Millenium, Band 2)",    "cover": "", "category": "THRILLER", "author": "Stieg Larsson", "year": "2006", "price": "9" },
+    { "title": "Verblendung (Millenium, Band 1)",   "cover": "https://weltbild.scene7.com/asset/vgwwb/vgw/millennium-band-1-buch-1-verblendung-079240765.jpg?$styx-list-m$&wb6", "category": "THRILLER", "author": "Stieg Larsson", "year": "2005", "price": "9" },
+    { "title": "XQuery Kick Start",                 "cover": "", "category": "WEB", "author": "James McGovern", "year": "2003", "price": "49" },
+    { "title": "Learning XML",                      "cover": "", "category": "WEB", "author": "Erik T. Ray", "year": "2003", "price": "39" }
+]
